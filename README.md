@@ -37,7 +37,7 @@ Sign up for an AWS account at AWS.
 Set up an S3 bucket for storing your media files.
 
 -Clone the repository:
-git clone https://github.com/yourusername/trendify.git
+git clone https://github.com/tjrapodile/trendify.git
 
 -Navigate to the project directory:
 cd trendify
